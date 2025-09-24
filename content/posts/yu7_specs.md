@@ -14,6 +14,7 @@ ShowToc: true
 - [YU7各车型参数配置对照 | 小米汽车](https://www.xiaomiev.com/car-config)
 
 ## 部分关键特性
+以下以PRO版本为例
 - 性能
 	- 01加速：4.27s / Top：240KM/h
 	- 续航CLTC：770KM
